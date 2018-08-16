@@ -1,3 +1,3 @@
 # DownloadFileExample
 
-A basic example app for downloading files from internet.
+A basic android example app for downloading files from internet.
